@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejas Prasad</h1>
-<h3 align="center">An 2nd Year Computer Science student</h3>
+<h3 align="center">A Third Year Computer Science Student</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" /> </p>
 
 - 🔭 I’m currently studying **Computer Science at RNSIT**

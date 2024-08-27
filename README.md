@@ -26,5 +26,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejasprasadd&show_icons=true&theme=dark&locale=en&layout=compact" alt="tejasprasadd" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejasprasadd&show_icons=true&theme=tokyonight&locale=en" alt="tejasprasadd" /></p>
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=tejasprasadd&label=Profile%20Views&color=2&icon=5&pretty=false" />
+</a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejasprasadd&" alt="tejasprasadd" /></p>

@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently studying **Computer Science at RNSIT**
 
-- 🌱 I’m currently learning **Reactjs,Scikit-Learn,Deep Learning,Tensorflow**
+- 🌱 I’m currently learning **Reactjs,Scikit-Learn,OpenCV**
 
 - 📫 How to reach me **tejasprasad43@gmail.com**
 

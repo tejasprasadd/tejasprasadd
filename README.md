@@ -15,8 +15,6 @@
 <a href="https://twitter.com/tejasprasadd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tejasprasadd" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/b-r-tejas-prasad-697052259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejasprasadd" height="30" width="40" /></a>
 <a href="https://instagram.com/tejasprasadd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tejasprasadd" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tejasprasad43" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tejasprasad43" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tejasprasadd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tejasprasadd" height="30" width="40" /></a>
 <a href="https://discord.gg/TyRogu3 #5302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TyRogu3 #5302" height="30" width="40" /></a>
 </p>
 

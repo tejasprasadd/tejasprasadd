@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejas Prasad</h1>
-<h3 align="center">A Third Year Computer Science Student</h3>
+<h3 align="center">A Final Year Computer Science Student</h3>
  </p>
 
 - 🔭 I’m currently studying **Computer Science at RNSIT**

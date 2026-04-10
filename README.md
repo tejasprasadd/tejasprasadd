@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tejas Prasad</h1>
-<h3 align="center">A Final Year Computer Science Student</h3>
+<h3 align="center">Software Engineer</h3>
  </p>
-
-- 🔭 I’m currently studying **Computer Science at RNSIT**
 
 - 🌱 I’m currently learning **Reactjs,Scikit-Learn,OpenCV**
 

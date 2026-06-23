@@ -2,8 +2,6 @@
 <h3 align="center">Software Engineer</h3>
  </p>
 
-- 🌱 I’m currently learning **Reactjs,Scikit-Learn,OpenCV**
-
 - 📫 How to reach me **tejasprasad43@gmail.com**
 
 - ⚡ Fun fact **I also play guitar**
